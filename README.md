@@ -1,4 +1,5 @@
 # BMI Calculator 💪
+## A cross-platform app made using Flutter and Dart.
 
  
 
